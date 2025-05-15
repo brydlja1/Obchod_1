@@ -1,34 +1,23 @@
-# Obchod_1 – Nákupní seznam v Javì
+# Obchod_1 â€“ NÃ¡kupnÃ­ seznam v JavÄ›
 
 ## Popis projektu
-Tento program je jednoduchı nákupní seznam napsanı v Javì. Uivatel mùe prohlíet seznam dostupnıch poloek s jejich cenami, filtrovat je podle maximální ceny, pøidávat vybrané poloky do svého nákupního košíku a na konci získá celkovou cenu nákupu. Pokud celková cena pøekroèí 100 dolarù, tak se aplikuje sleva 10 %.
+Tento program je jednoduchÃ½ nÃ¡kupnÃ­ seznam napsanÃ½ v JavÄ›. UÅ¾ivatel mÅ¯Å¾e prohlÃ­Å¾et seznam dostupnÃ½ch poloÅ¾ek s jejich cenami, filtrovat je podle maximÃ¡lnÃ­ ceny, pÅ™idÃ¡vat vybranÃ© poloÅ¾ky do svÃ©ho nÃ¡kupnÃ­ho koÅ¡Ã­ku a na konci zÃ­skÃ¡ celkovou cenu nÃ¡kupu. Pokud celkovÃ¡ cena pÅ™ekroÄÃ­ 100 dolarÅ¯, tak se aplikuje sleva 10 %.
 
 ## Funkce programu
-- Vıpis všech poloek s jednotkovımi cenami.
-- Volitelné filtrování poloek podle maximální ceny.
-- Pøidávání poloek do nákupního košíku zadáním názvu poloky.
-- Vıpoèet celkové ceny.
-- Automatická sleva 10 % pøi nákupu nad 100 dolarù.
-- Ošetøení neexistujících poloek v seznamu.
+- VÃ½pis vÅ¡ech poloÅ¾ek s jednotkovÃ½mi cenami.
+- VolitelnÃ© filtrovÃ¡nÃ­ poloÅ¾ek podle maximÃ¡lnÃ­ ceny.
+- PÅ™idÃ¡vÃ¡nÃ­ poloÅ¾ek do nÃ¡kupnÃ­ho koÅ¡Ã­ku zadÃ¡nÃ­m nÃ¡zvu poloÅ¾ky.
+- VÃ½poÄet celkovÃ© ceny.
+- AutomatickÃ¡ sleva 10 % pÅ™i nÃ¡kupu nad 100 dolarÅ¯.
+- OÅ¡etÅ™enÃ­ neexistujÃ­cÃ­ch poloÅ¾ek v seznamu.
 
-## Pouité technologie
-- Java SE
-- Konzolové uivatelské rozhraní (CLI)
 
 ## Jak spustit
-1. Zkompilujte zdrojovı kód pomocí:
-2. Spuste program pomocí:
-3. Øiïte se pokyny v konzoli.
+1. Zkompilujte zdrojovÃ½ kÃ³d pomocÃ­:
+2. SpusÅ¥te program pomocÃ­:
+3. Å˜iÄte se pokyny v konzoli.
 
-## Struktura kódu
-- `groceryList` – pole dostupnıch poloek.
-- `unitPrices` – ceny poloek odpovídající polokám v `groceryList`.
-- Metody pro filtrování poloek, hledání a vıpoèet prùmìrné ceny.
 
 ## Autor
-- [Tvoje jméno]
-- [Tvoje škola nebo kurz]
-
----
-
-Pokud chceš, mùu ti pøipravit ten README i jako soubor `README.md`, staèí øíct!
+- Jan BrÃ½dl
+- UHK FIM
