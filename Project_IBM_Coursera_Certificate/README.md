@@ -13,9 +13,8 @@ Tento program je jednoduchý nákupní seznam napsaný v Javě. Uživatel může
 
 
 ## Jak spustit
-1. Zkompilujte zdrojový kód pomocí:
-2. Spusťte program pomocí:
-3. Řiďte se pokyny v konzoli.
+1. Project_IBM_Coursera_Certificate/src/main/java/org/example/Main.java
+2. Řiďte se pokyny v konzoli.
 
 
 ## Autor
